@@ -1,2 +1,2 @@
 # loraserverTTN
-Lora Server - THe things network - open source
+Lora Server - The things network - open source
